@@ -1,0 +1,71 @@
+{
+  "status": "ok",
+  "totalResults": 1775,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (William Gallagher)",
+      "title": "At some point, the Apple Watch Ultra had a black backing",
+      "description": "Images of an Apple Watch Ultra prototype with a black casing have surfaced online, claiming to be from original FCC filings.Apple Watch Ultra prototype in blackApple has previously been reported to have considered releasing the Apple Watch Ultra in black. It'…",
+      "url": "https://appleinsider.com/articles/23/11/17/at-some-point-the-apple-watch-ultra-had-a-black-backing",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/57327-116658-000-lead-Apple-Watch-Ultra-in-black-xl.jpg",
+      "publishedAt": "2023-11-17T11:29:56Z",
+      "content": "Apple Watch Ultra prototype in black\r\nImages of an Apple Watch Ultra prototype with a black casing have surfaced online, claiming to be from original FCC filings.\r\nApple has previously been reported … [+1079 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Wesley Hilliard)",
+      "title": "Recording Spatial Video, Nothing's iMessage gamble, & M3 Max on the AppleInsider Podcast",
+      "description": "Apple introduced Spatial Video recording in iOS 17.2, the M3 Max MacBook Pro gets reviewed, and more on this week's episode of the AppleInsider Podcast.Capture Spatial Video on iPhoneYour hosts discuss shooting Spatial Video with the iPhone 15 Pro and what th…",
+      "url": "https://appleinsider.com/articles/23/11/17/recording-spatial-video-nothings-imessage-gamble-m3-max-on-the-appleinsider-podcast",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/57321-116650-IMG_4154-xl.jpg",
+      "publishedAt": "2023-11-17T13:04:45Z",
+      "content": "Capture Spatial Video on iPhone\r\nApple introduced Spatial Video recording in iOS 17.2, the M3 Max MacBook Pro gets reviewed, and more on this week's episode of the AppleInsider Podcast.\r\nYour hosts d… [+2009 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Wesley Hilliard)",
+      "title": "You're still going to be bullied for being a green bubble, even with RCS",
+      "description": "Apple confirms the blue versus green bubble battle won't be over just because of RCS.Green bubbles aren't going anywhereThe blue iMessage text bubble is meant to tell the user when they are talking to another iPhone user. However, this handy tool has turned i…",
+      "url": "https://appleinsider.com/articles/23/11/17/youre-still-going-to-be-bullied-for-being-a-green-bubble-even-with-rcs",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/57324-116651-IMG_4157-xl.jpg",
+      "publishedAt": "2023-11-17T02:18:32Z",
+      "content": "Green bubbles aren't going anywhere\r\nApple confirms the blue versus green bubble battle won't be over just because of RCS.\r\nThe blue iMessage text bubble is meant to tell the user when they are talki… [+1305 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (William Gallagher)",
+      "title": "Apple files legal challenge over Europe's demand for third-party app stores",
+      "description": "Apple has filed its anticipated legal case against the European Commission's Digital Markets Act, and is believed to specifically protest being forced into supporting rivals to its App Store.The Digital Markets Act was created specifically to target Big Tech …",
+      "url": "https://appleinsider.com/articles/23/11/17/apple-files-legal-challenge-over-europes-demand-for-third-party-app-stores",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/51155-101060-european-union-flag-xl.jpg",
+      "publishedAt": "2023-11-17T15:42:04Z",
+      "content": "Apple has filed its anticipated legal case against the European Commission's Digital Markets Act, and is believed to specifically protest being forced into supporting rivals to its App Store.\r\nThe Di… [+1417 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (William Gallagher)",
+      "title": "Apple's entire OLED iPad plan may have just been leaked",
+      "description": "A new report says that single-stack OLED screens will come to the iPad Air, an 8.7-inch and iPad mini in 2026, plus a new 12.9-inch iPad Air in 2027.The current iPad AirApple has been reportedly working on moving to an OLED screen for the iPad Pro for some ti…",
+      "url": "https://appleinsider.com/articles/23/11/17/apples-entire-oled-ipad-plan-may-have-just-been-leaked",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/57333-116668-000-lede-iPad-Air-xl.jpg",
+      "publishedAt": "2023-11-17T15:00:24Z",
+      "content": "The current iPad Air\r\nA new report says that single-stack OLED screens will come to the iPad Air, an 8.7-inch and iPad mini in 2026, plus a new 12.9-inch iPad Air in 2027.\r\nApple has been reportedly … [+1822 chars]"
+    }
+  ]
+}
